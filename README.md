@@ -1,10 +1,11 @@
 # Cursor-Control-Using-Facial-Expression
-a novel camera mouse driven by 2D model based visual face tracking technique
+A novel camera mouse driven by 2D model based visual face tracking technique
+
 Using tools
-dlib
-imutils
-opencv
-numpy
+1. dlib
+2. imutils
+3. opencv
+4. numpy
 
 
 This proposed project introduces a novel camera mouse
